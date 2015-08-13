@@ -1,2 +1,8 @@
 /* Go crazy with your own styles here */
 /* EDITOR PROPERTIES - PLEASE DON'T DELETE THIS LINE TO AVOID DUPLICATE PROPERTIES */
+
+#pageContent, #pageContent p, #pageContent a {
+    
+    background-color: #000000;
+    color: white;
+}
